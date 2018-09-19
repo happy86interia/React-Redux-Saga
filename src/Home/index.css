@@ -1,0 +1,35 @@
+html {
+  padding: 0;
+}
+
+body {
+  background: #F5F5F5;
+  margin: 0;
+  min-width: 480px;
+}
+
+h1, h2, h3, h4 {
+  font-weight: lighter !important;
+}
+
+.black-white {
+  background: url('/images/color-0.png');
+}
+
+.red-white {
+  background: url('/images/color-1.png');
+}
+
+.blue-white {
+  background: url('/images/color-2.png');
+}
+
+.yellow-white {
+  background: url('/images/color-3.png');
+}
+
+.colorItem {
+  background-size: contain;
+  background-position: right top;
+  background-repeat: no-repeat;
+}
